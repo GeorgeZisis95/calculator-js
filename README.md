@@ -2,6 +2,7 @@
 
 A **simple yet sleek calculator** built with vanilla JavaScript, HTML, and CSS.  
 This project features a **custom-built calculation function** and a stylish **neo-hacking aesthetic**.
+Live site: zisis-calculator.vercel.app
 
 ---
 
